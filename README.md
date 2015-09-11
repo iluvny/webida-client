@@ -27,3 +27,8 @@ $ mongo
 Now you can access client app with the below url address.
 
 * http://webida.mine:5001/
+
+<a href="https://scan.coverity.com/projects/iluvny-webida-client">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/6325/badge.svg"/>
+</a>
